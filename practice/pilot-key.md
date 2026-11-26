@@ -1,0 +1,11 @@
+# Pilot plan: worked review
+
+Check your own [pilot brief](pilot-brief.md) before using this example. One plan can support a different target or a different subsidy choice if the evidence and decision agree.
+
+- **Target:** Start with nearby renters facing a small bicycle adjustment who can reach the existing pickup counter. Borrowing from a neighbor is a real substitute. The eight people are a convenience sample, not neighborhood prevalence. Six reported transport difficulty and two had borrowed before, but zero, one or two might be in both sets. Ask which recent repair and times matter before expanding.
+- **Promise:** Offer an inspected reservable kit for a stated window. Verify inventory, instructions, booking and pickup eligibility; do not promise a completed repair or availability at all times. Compare availability and burden against borrowing and postponement, not just competing businesses.
+- **Offer economics:** $9 − $7 = $2 of incremental contribution per fulfilled loan. Break-even under the toy assumptions requires 15 loans; eight slots give at most $16 toward $30 fixed, a $14 gap. A deliberate subsidy, different cost or job scope, a viable price change or different capacity could make it a defensible pilot; none is observed here. At $11 and only six slots, $4 × 6 = $24, still $6 short.
+- **Channel:** Test equally specified copy and offer across comparable opt-in opportunities. Use the same kit count, eligibility and accessibility checks in both; pause if permission is unclear or availability is unequal. Assignment, timing and sharing between groups affect attribution. Do not read an ordinary before/after or two-window log as randomized.
+- **Measures:** A has 16/40 visits, 6/16 requests per visit, 4/6 fulfillments per request and 4/40 fulfillments per contact. B has 12/40, 5/12, 5/5 and 5/40. The difference in fulfillments per contact is 2.5 percentage points. Repeat use among offered return opportunities is 2/3 and 2/4 respectively. Do not call either difference a causal effect or a neighborhood-wide estimate. Check the reason for unfilled requests before buying reach. Log who lacked a later opportunity separately.
+
+A reviewer should be able to reproduce your decision with the same fictional inputs and distinguish a logistical limit from a marketing observation.

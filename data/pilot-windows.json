@@ -1,0 +1,9 @@
+{
+  "fictional": true,
+  "interview_margins": {"respondents": 8, "transport_difficulty": 6, "prior_borrowers": 2},
+  "cost_model": {"fee": 9, "wear": 4, "handling": 3, "fixed_incremental": 30, "capacity": 8},
+  "windows": [
+    {"window": "A", "contacts": 40, "visits": 16, "requests": 6, "fulfilled": 4, "capacity": 8, "repeat_opportunities": 3, "repeat_loans": 2},
+    {"window": "B", "contacts": 40, "visits": 12, "requests": 5, "fulfilled": 5, "capacity": 8, "repeat_opportunities": 4, "repeat_loans": 2}
+  ]
+}
